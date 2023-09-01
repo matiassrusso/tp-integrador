@@ -1,0 +1,18 @@
+- MiProyectoWeb
+  - index.html
+  - css
+    - styles.css
+  - images
+    - imagen1.jpg
+    - imagen2.jpg
+  - movies
+    - detail-movie.html
+  - series
+    - detail-serie.html
+  - favorites
+    - favorite.html
+  - genres
+    - genres.html
+  - shared
+    - header.html
+    - footer.html
